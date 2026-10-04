@@ -5,7 +5,7 @@ Sample skincare products and placeholder packshots for the
 WP-CLI and works on any WooCommerce store, with or without Marin.
 
 It creates 16 products in 7 categories (Moisturisers, Cleansers, Serums, Sun Care, Body,
-Toners & Masks, Kits), including 5 variable products with size options and 3 sale items.
+Toners and Masks, Kits), including 5 variable products with size options and 3 sale items.
 Each product has an illustrated packshot.
 
 ## Requirements

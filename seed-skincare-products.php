@@ -25,7 +25,7 @@ $cats = array(
 	'serums'       => 'Serums',
 	'sun-care'     => 'Sun Care',
 	'body'         => 'Body',
-	'toners-masks' => 'Toners & Masks',
+	'toners-masks' => 'Toners and Masks',
 	'kits'         => 'Kits',
 );
 $cat_ids = array();
